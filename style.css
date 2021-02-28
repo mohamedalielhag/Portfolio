@@ -549,13 +549,6 @@ footer span a{
 footer span a:hover{
     text-decoration: underline;
 }
-.fa-twitter {
-  background: maroon;
-  color: lightblue;
-}
-.fa:hover {
-  opacity: 0.7;
-}
 
 
 
